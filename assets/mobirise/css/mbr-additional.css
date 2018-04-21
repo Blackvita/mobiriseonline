@@ -1373,7 +1373,11 @@ body {
   display: none;
 }
 .cid-qPPf1Nnlwz {
-  background-image: url("../../../assets/images/jumbotron.jpg");
+  background-image: url("../../../assets/images/assassin-s-creed-brotherhood-by-pollo0389-d5qam0i-1378x579.jpg");
+}
+.cid-qPPf1Nnlwz H1 {
+  text-align: center;
+  color: #efefef;
 }
 .cid-qPPf1R9Qkn {
   padding-top: 60px;
@@ -1441,4 +1445,10 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-qPPyz1yk4Z {
+  background-image: url("../../../assets/images/ac4-animus-by-pateytos-d6d14yt-1920x1200.png");
+}
+.cid-qPPAAeWDrp {
+  background-image: url("../../../assets/images/jumbotron.jpg");
 }
