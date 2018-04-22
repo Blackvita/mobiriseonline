@@ -1385,7 +1385,35 @@ body {
   background-color: #2e2e2e;
 }
 .cid-qPPyz1yk4Z {
-  background-image: url("../../../assets/images/ac4-animus-by-pateytos-d6d14yt-1920x1200.png");
+  background-color: #073b4c;
+}
+.cid-qPUWF9S3xM {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #073b4c;
+}
+.cid-qPUWF9S3xM .mbr-text {
+  color: #cccccc;
+}
+.cid-qPUWF9S3xM h4 {
+  text-align: center;
+}
+.cid-qPUWF9S3xM p {
+  text-align: center;
+}
+.cid-qPUWF9S3xM .card-img span {
+  font-size: 96px;
+  color: #149dcc;
+}
+.cid-qPUWF9S3xM .card-title,
+.cid-qPUWF9S3xM .card-img {
+  color: #efefef;
+  text-align: center;
+}
+.cid-qPUZvs3MXo {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #073b4c;
 }
 .cid-qPPAAeWDrp {
   background-image: url("../../../assets/images/jumbotron.jpg");
